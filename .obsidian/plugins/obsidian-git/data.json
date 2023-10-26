@@ -1,7 +1,7 @@
 {
-  "commitMessage": "Arslan backup: {{date}}",
+  "commitMessage": "Ilya backup: {{date}}",
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
-  "autoSaveInterval": 30,
+  "autoSaveInterval": 0,
   "autoPushInterval": 0,
   "autoPullInterval": 0,
   "autoPullOnBoot": true,
@@ -47,7 +47,7 @@
     },
     "textColorCss": "var(--text-muted)",
     "ignoreWhitespace": false,
-    "gutterSpacingFallbackLength": 4,
+    "gutterSpacingFallbackLength": 6,
     "lastShownAuthorDisplay": "first name",
     "lastShownDateTimeFormatOptions": "date"
   },
