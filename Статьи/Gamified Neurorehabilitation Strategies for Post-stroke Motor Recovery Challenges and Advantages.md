@@ -1,12 +1,23 @@
+#Статья 
+
 https://link.springer.com/article/10.1007/s11910-022-01181-y
 
+**Введение**
 >К сожалению, исследования улучшения состояния людей, перенесших хронический инсульт, менее последовательны: несмотря на то, что имеются достоверные данные о том, что не менее 20 часов тренировок с повторением заданий важны для улучшения функции руки после инсульта [1].
 
 >Имеются данные, свидетельствующие о том, что поощрение упражнения в состоянии высокой вовлеченности могут значительно улучшить терапевтический результат [2]
 
 >Кроме того, поддержание высокого уровня мотивации у лиц перенесших инсульт, также представляется важной характеристикой успешной реабилитации после инсульта [3]
 
+>На первый взгляд, геймификация нейрореабилитации способна решить многие проблемы, связанные с проведением высокоинтенсивных, увлекательных и недорогих терапевтических занятий. Последние достижения в области технологий захвата движений и программного обеспечения для разработки игр сделали такие подходы вполне осуществимыми [4]
+
+
+>Эксергейминг - это доступные на рынке игровые системы, которые могут быть использованы как для реабилитации, так и для чисто рекреационного использования. Напротив, серьезные игры - это системы, специально разработанные для реабилитационных целей [5]
+
+Надо просмотреть что такое Exergames и serios games в контексте статьи выше, а то не совсем понятно о чем конкретно идет речь
+
 1. Pollock A, Baer G, Campbell P, Choo PL, Forster A, Morris J, et al. Physical rehabilitation approaches for the recovery of function and mobility following stroke. Cochrane Stroke Group, editor. Cochrane Database Syst Rev [Internet]. 2014 [cited 2020 Aug 11]; Available from: http://doi.wiley.com/10.1002/14651 858.CD001920.pub3.
 2. Kleim JA, Jones TA. Principles of experience-dependent neural plasticity: implications for rehabilitation after brain damage. J Speech Lang Hear Res [Internet]. 2008 [cited 2021 May 28];51.
 3. Oyake K, Suzuki M, Otaka Y, Momose K, Tanaka S. Motivational strategies for stroke rehabilitation: a Delphi study. Arch Phys Med Rehabil. 2020;101:1929–36.
-4. 
+4. Putrino D, Zanders H, Hamilton T, Rykman A, Lee P, Edwards DJ. Patient Engagement Is Related to Impairment Reduction During Digital Game-Based Therapy in Stroke. Games Health J. 2017;6:295–302
+5. Sardi L, Idri A, Fernández-Alemán JL. A systematic review of gamifcation in e-Health. J Biomed Inform. 2017;71:31–48.
