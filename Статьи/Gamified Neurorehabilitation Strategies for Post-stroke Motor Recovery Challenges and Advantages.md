@@ -38,3 +38,5 @@ https://link.springer.com/article/10.1007/s11910-022-01181-y
 3. Oyake K, Suzuki M, Otaka Y, Momose K, Tanaka S. Motivational strategies for stroke rehabilitation: a Delphi study. Arch Phys Med Rehabil. 2020;101:1929–36.
 4. Putrino D, Zanders H, Hamilton T, Rykman A, Lee P, Edwards DJ. Patient Engagement Is Related to Impairment Reduction During Digital Game-Based Therapy in Stroke. Games Health J. 2017;6:295–302
 5. Sardi L, Idri A, Fernández-Alemán JL. A systematic review of gamifcation in e-Health. J Biomed Inform. 2017;71:31–48.
+
+[[Инсульт]]
