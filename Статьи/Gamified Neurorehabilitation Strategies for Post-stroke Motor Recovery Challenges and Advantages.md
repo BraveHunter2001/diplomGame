@@ -23,6 +23,8 @@ Serious games -
 
 Комплаенс - буквально означает Соблюдение - действие в соответствии с запросом или указанием;_
 
+
+Полосатое тело - представляет собой ядро ​​(скопление нейронов) в подкорковых базальных ганглиях переднего мозга. Полосатое тело является важнейшим компонентом двигательной системы и системы вознаграждения.
 # Введение
 
 >К сожалению, исследования улучшения состояния людей, перенесших хронический инсульт, менее последовательны: несмотря на то, что имеются достоверные данные о том, что не менее 20 часов тренировок с повторением заданий важны для улучшения функции руки после инсульта [1].
@@ -74,7 +76,15 @@ Serious games -
 
 # Геймифицированная нейрореабилитация с использованием роботов (RGN)
 
+Не совсем подходит, так как нет нормальных исследований по поводу геймификации данного процесса.
 
+# Поведенческие и нейрофизиологические эффекты геймифицированной терапии
+
+>ПЭТ исследования показали, что игра в видеоигры приводит к значительному увеличению эндогенного выброса дофамина в стриатуме, сравнимому с инъекциями амфетамина и метамфетамина [17]
+
+>а другие нейровизуализационные исследования подтверждают эту идею, показывая, что игра в видеоигры  ассоциируется со структурными изменениями в стриатальной системе вознаграждения (полосатое тело) [18]
+
+>Также описано улучшение внимания, зрительно-моторной и когнитивно-моторной деятельности, причем потенциально долговременные улучшения могут переходить из игровой среды в повседневную жизнь [19]
 # Ссылки
 1. Pollock A, Baer G, Campbell P, Choo PL, Forster A, Morris J, et al. Physical rehabilitation approaches for the recovery of function and mobility following stroke. Cochrane Stroke Group, editor. Cochrane Database Syst Rev [Internet]. 2014 [cited 2020 Aug 11]; Available from: http://doi.wiley.com/10.1002/14651 858.CD001920.pub3.
 2. Kleim JA, Jones TA. Principles of experience-dependent neural plasticity: implications for rehabilitation after brain damage. J Speech Lang Hear Res [Internet]. 2008 [cited 2021 May 28];51.
@@ -92,5 +102,8 @@ Serious games -
 14. Corbetta D, Imeri F, Gatti R. Rehabilitation that incorporates virtual reality is more effective than standard rehabilitation for improving walking speed, balance and mobility after stroke: a systematic review. J Physiother. 2015;61:117–24
 15. Saposnik G, Levin M. for the Stroke Outcome Research Canada (SORCan) Working Group. Virtual reality in stroke rehabilitation: a meta-analysis and implications for clinicians. Stroke. 2011;42:1380–6
 16. Palacios-Navarro G, Hogan N. Head-mounted display-based therapies for adults post-stroke: a systematic review and metaanalysis. Sensors [Internet]. 2021 [cited 2021 Mar 3];21. Available from: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC79 15338/. Meta-analysis that specifcally evaluated immersive virtual reality therapies for stroke rehabilitation found that patients who received IVR rehabilitation found a trend toward significantly greater improvements compared to those receiving traditional or conventional therapies.
+17. Koepp MJ, Gunn RN, Lawrence AD, Cunningham VJ, Dagher A, Jones T, et al. Evidence for striatal dopamine release during a video game. Nature. 1998;393:266–8.
+18. Kühn S, Romanowski A, Schilling C, Lorenz R, Mörsen C, Seiferth N, et al. The neural basis of video gaming. Transl Psychiatry. 2011;1:e53–3.
+19. Lohse KR, Hilderman CGE, Cheung KL, Tatla S, Van der Loos HFM. Virtual reality therapy for adults post-stroke: a systematic review and meta-analysis exploring virtual environments and commercial games in therapy. Quinn TJ, editor. PLoS ONE. 2014;9:e93318.
 
 [[Инсульт]]
