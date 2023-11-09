@@ -37,7 +37,6 @@ Serious games -
 >Эксергейминг - это доступные на рынке игровые системы, которые могут быть использованы как для реабилитации, так и для чисто рекреационного использования. Напротив, серьезные игры - это системы, специально разработанные для реабилитационных целей [5]
 
 Надо просмотреть что такое Exergames и serious games в контексте статьи выше, а то не совсем понятно о чем конкретно идет речь
-
 # Не роботизированная геймифицированная нейрореабилитация (NRGN)
 
 В основном это либо специализированные средства (Mind Motion GO, Mind Maze), либо для реабилитации используются имеющиеся в продаже игровые системы (Nintendo Wii, PlayStation, например с помощью захвата движений и т.п.). 
@@ -63,7 +62,19 @@ Serious games -
 
 # Иммерсивная виртуальная реальность (IVR)
 
->В сочетании с беговыми дорожками или ручными контроллерами они стимулируют движения, напоминающие реальные, что позволяет максимально увеличить интенсивность выполнения упражнений, ориентированных на конкретную задачу []
+>В сочетании с беговыми дорожками или ручными контроллерами они стимулируют движения, напоминающие реальные, что позволяет максимально увеличить интенсивность выполнения упражнений, ориентированных на конкретную задачу [13, 14]
+
+>Кроме того, IVR может включать визуальные, аудио и вибротактильные подсказки и обратную связь в реальном времени, что может способствовать реорганизации коры головного мозга и развитию согласованности управления телом и проприоцепции (ощущение положения частей собственного тела относительно друг друга и в пространстве). [14, 15]
+
+>Единственный метаанализ, посвященный оценке IVR-терапии для реабилитации после инсульта, показал, что у пациентов, получавших IVRреабилитацию, наблюдалась тенденция к значительно большему улучшению по сравнению с пациентами, получавшими традиционную или обычную терапию [16]
+
+## Цели
+
+Необходимы дальнейшие исследования как для создания действительно иммерсивных сред IVR-реабилитации, имитирующих выполнение реальных задач, так и для лучшего понимания того, как эти характеристики влияют на терапевтический эффект IVR-реабилитации.
+
+# Геймифицированная нейрореабилитация с использованием роботов (RGN)
+
+
 # Ссылки
 1. Pollock A, Baer G, Campbell P, Choo PL, Forster A, Morris J, et al. Physical rehabilitation approaches for the recovery of function and mobility following stroke. Cochrane Stroke Group, editor. Cochrane Database Syst Rev [Internet]. 2014 [cited 2020 Aug 11]; Available from: http://doi.wiley.com/10.1002/14651 858.CD001920.pub3.
 2. Kleim JA, Jones TA. Principles of experience-dependent neural plasticity: implications for rehabilitation after brain damage. J Speech Lang Hear Res [Internet]. 2008 [cited 2021 May 28];51.
@@ -77,5 +88,9 @@ Serious games -
 10. McNulty PA, Thompson-Butel AG, Faux SG, Lin G, Katrak PH, Harris LR, et al. The efcacy of Wii-based Movement Therapy for upper limb rehabilitation in the chronic poststroke period: a randomized controlled trial. Int J Stroke Of J Int Stroke Soc. 2015;10:1253–60.
 11. Trinh T, Scheuer SE, Thompson-Butel AG, Shiner CT, McNulty PA. Cardiovascular ftness is improved post-stroke with upperlimb Wii-based Movement Therapy but not dose-matched constraint therapy. Top Stroke Rehabil. 2016;23:208–16.
 12. Neil A, Ens S, Pelletier R, Jarus T, Rand D. Sony PlayStation EyeToy elicits higher levels of movement than the Nintendo Wii: implications for stroke rehabilitation. Eur J Phys Rehabil Med. 2013;49:13–21.
+13. Cortés-Pérez I, Nieto-Escamez FA, Obrero-Gaitán E. Immersive virtual reality in stroke patients as a new approach for reducing postural disabilities and falls risk: a case series. Brain Sci [Internet]. 2020 [cited 2021 May 27];10. Available from: https://www. ncbi.nlm.nih.gov/pmc/articles/PMC7287864/.
+14. Corbetta D, Imeri F, Gatti R. Rehabilitation that incorporates virtual reality is more effective than standard rehabilitation for improving walking speed, balance and mobility after stroke: a systematic review. J Physiother. 2015;61:117–24
+15. Saposnik G, Levin M. for the Stroke Outcome Research Canada (SORCan) Working Group. Virtual reality in stroke rehabilitation: a meta-analysis and implications for clinicians. Stroke. 2011;42:1380–6
+16. Palacios-Navarro G, Hogan N. Head-mounted display-based therapies for adults post-stroke: a systematic review and metaanalysis. Sensors [Internet]. 2021 [cited 2021 Mar 3];21. Available from: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC79 15338/. Meta-analysis that specifcally evaluated immersive virtual reality therapies for stroke rehabilitation found that patients who received IVR rehabilitation found a trend toward significantly greater improvements compared to those receiving traditional or conventional therapies.
 
 [[Инсульт]]
