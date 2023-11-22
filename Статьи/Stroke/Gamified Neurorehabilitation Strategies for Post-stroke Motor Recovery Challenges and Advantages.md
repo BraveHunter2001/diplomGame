@@ -106,4 +106,4 @@ Serious games -
 18. Kühn S, Romanowski A, Schilling C, Lorenz R, Mörsen C, Seiferth N, et al. The neural basis of video gaming. Transl Psychiatry. 2011;1:e53–3.
 19. Lohse KR, Hilderman CGE, Cheung KL, Tatla S, Van der Loos HFM. Virtual reality therapy for adults post-stroke: a systematic review and meta-analysis exploring virtual environments and commercial games in therapy. Quinn TJ, editor. PLoS ONE. 2014;9:e93318.
 
-[[Инсульт]]
+[[Stroke]]
