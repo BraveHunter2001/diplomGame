@@ -35,3 +35,4 @@
 
 Опросник иммерсивных  тенденций (ITQ), Опросник обратной связи по конкретной задаче (TSFQ), 
 
+[[Virtual Reality in the Rehabilitation of the Upper Limb after Stroke The User’s Perspective]]
