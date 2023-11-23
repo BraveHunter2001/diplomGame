@@ -6,4 +6,4 @@
 
 >Было показано, что выставление оценок за задания и немедленная обратная связь оптимизируют двигательное обучение (Sveistrup, 2004).
 
-[[Clinical R]]
+[[Constraint-induced movement therapy for upper extremities in people with stroke (Review)]]
