@@ -7,3 +7,4 @@
 
 растяжка самостоятельного диапазона движений  - selfrange of motion (SROM), упражнения активного диапазона движений - stretches and active range of motion (AROM), укрепляющие упражнения на всю гемипаретическую  верхнюю конечность (по сути тренировка ограниченной верхней конечности).
 
+[[Virtual reality for stroke rehabilitation (Review)]]
