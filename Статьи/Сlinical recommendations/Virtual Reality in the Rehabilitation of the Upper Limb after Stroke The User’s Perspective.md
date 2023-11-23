@@ -11,7 +11,7 @@
 
 ## Задания (выделил сам)
 
-Функ
+Функциональные задания 
 
 
 [[Virtual reality for stroke rehabilitation (Review)]]
