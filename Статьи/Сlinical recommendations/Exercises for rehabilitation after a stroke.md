@@ -6,4 +6,4 @@
 [[A Randomized Controlled Trial of Gravity-Supported, Computer-Enhanced Arm Exercise for Individuals With Severe Hemiparesis]]
 
 Реабилитация по методике Бобата
-[[Rec]]
+[[Recovery of Upper Extremity Function in Stroke Patients The Copenhagen Stroke Study]]
