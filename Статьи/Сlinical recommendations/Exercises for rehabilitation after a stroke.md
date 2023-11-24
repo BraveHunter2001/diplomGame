@@ -14,3 +14,5 @@ CIMT, основан на двух фундаментальных принцип
 
 Реабилитация по методике Бобата (Rehabilitation based on the Bobath technique) **упоминается в нескольких источниках**
 [[Recovery of Upper Extremity Function in Stroke Patients The Copenhagen Stroke Study]]
+
+Upper-Extremity Training - 
