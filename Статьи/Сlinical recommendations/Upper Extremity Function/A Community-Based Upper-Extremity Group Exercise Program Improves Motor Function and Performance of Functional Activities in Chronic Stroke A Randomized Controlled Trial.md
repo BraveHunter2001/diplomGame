@@ -17,6 +17,7 @@ Station 2: Range of motion, weightbearing activities, and elbow/wrist exercises
 Station 3: Hand activities and functional training
 1. Укрепление мышц рук: Упражнения с использованием шпатлевки, захватов (движения: щипывание, захват, разгибание пальцев) (прогрессирует за счет увеличения сопротивления шпатлевки и захватов и увеличения повторений с 2 ​​подходов по 10 до 3 подходов по 15).
 2. Функциональная деятельность: игра в карты, собирание предметов разного размера и формы, выполнение заданий, задачи на мелкую моторику.
-3. 
+3. Электростимуляция разгибателей запястья (только для тех, у кого активное разгибание запястья составляет менее 20°).
+
 
 [[A Randomized Controlled Trial of Gravity-Supported, Computer-Enhanced Arm Exercise for Individuals With Severe Hemiparesis]]
