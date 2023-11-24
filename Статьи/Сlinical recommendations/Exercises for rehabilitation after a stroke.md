@@ -30,3 +30,5 @@ Station 3: Hand activities and functional training
 2. Функциональная деятельность: игра в карты, собирание предметов разного размера и формы, выполнение заданий, задачи на мелкую моторику.
 3. Электростимуляция разгибателей запястья (только для тех, у кого активное разгибание запястья составляет менее 20°).
 [[A Community-Based Upper-Extremity Group Exercise Program Improves Motor Function and Performance of Functional Activities in Chronic Stroke A Randomized Controlled Trial]]
+
+
