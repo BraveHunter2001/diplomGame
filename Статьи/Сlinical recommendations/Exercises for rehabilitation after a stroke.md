@@ -103,4 +103,4 @@ Station 3: Hand activities and functional training
 
 ## Тренировка ходьбы
 
-
+### Использование параллельных брусьев
