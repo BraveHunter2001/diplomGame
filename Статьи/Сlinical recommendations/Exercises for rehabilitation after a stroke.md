@@ -14,8 +14,12 @@ CIMT, основан на двух фундаментальных принцип
 Растяжка самостоятельного диапазона движений  - selfrange of motion (SROM), упражнения активного диапазона движений - stretches and active range of motion (AROM), укрепляющие упражнения на всю гемипаретическую  верхнюю конечность (по сути тренировка ограниченной верхней конечности).
 [[A Randomized Controlled Trial of Gravity-Supported, Computer-Enhanced Arm Exercise for Individuals With Severe Hemiparesis]]
 
+# Бобат концепция
+
 Реабилитация по методике Бобата (Rehabilitation based on the Bobath technique) **упоминается в нескольких источниках**
 [[Recovery of Upper Extremity Function in Stroke Patients The Copenhagen Stroke Study]]
+
+
 
 Community-based programs for promoting mobility and physical fitness - Upper-Extremity Training - тренировка верхних конечностей при инсульте (как я понимаю в этой статье было использовано по сути ЛФК, но я не уверен),
 
